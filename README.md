@@ -1,0 +1,2 @@
+# bitnami-kafka
+bitnami/kafka
